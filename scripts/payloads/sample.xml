@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<issue>
+		<project_id>1</project_id>
+		<tracker_id>1</tracker_id>
+		<priority_id>3</priority_id>
+		<subject>Test</subject>
+		<description>This is a Scheduled Issue Created automatically via Redmine API</description>
+		<assigned_to_id>311</assigned_to_id>
+		<due_date>2024-07-09</due_date>
+	</issue>
