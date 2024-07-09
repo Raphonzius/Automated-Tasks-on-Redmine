@@ -4,12 +4,12 @@ And then I met [Redmine](https://www.redmine.org/) ❤️
 
 Redmine is a flexible, open-source project management and issue-tracking tool written using the [Ruby on Rails](https://rubyonrails.org/) framework. It is licensed under the GPLv2, which makes it freely available and allows for extensive customization to suit various business needs.
 
-Here is some (Key Features of Redmine)[../../wiki/Key-Features-of-Redmine]
+Here is some [Key Features of Redmine](../../wiki/Key-Features-of-Redmine)
 
 ## Implementing Redmine
   
   * To assist those interested in leveraging Redmine's capabilities, I have created an easy guide for installing this open-source tool. This guide provides step-by-step instructions to help teams set up and customize Redmine to meet their specific requirements and fill the gaps left by generic issue manager systems. This ensures that teams can adapt Redmine to their unique workflows and business rules efficiently.
-  * Check for more on my (Wiki Redmine ‐ Installation Guide)[../../wiki/Redmine-‐-Installation-Guide]
+  * Check for more on my [Wiki Redmine ‐ Installation Guide](../../wiki/Redmine-‐-Installation-Guide)
  
 ## Automating Tasks 
 
